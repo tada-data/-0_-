@@ -1,7 +1,5 @@
 # Project0_movie_rate_analysis
 
-# Project0_movie_rate_analysis
-
 ## 영화 평점 분석 주제
 1. 사람들이 가장 많이 본 영화 top10, 가장 평점이 높은 영화 top10
   - 사람들이 많이 본 영화 즉 인기 있는 영화가 작품성도 좋을까?
